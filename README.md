@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Harshith Reddy — a Data Scientist focused on building and deploying production-grade machine learning systems that drive real business impact.
+I’m Harshith Reddy a Data Scientist focused on building and deploying production-grade machine learning systems that drive real business impact.
 
 ###  What I Do
 - Design, train, and deploy ML models in production environments  
